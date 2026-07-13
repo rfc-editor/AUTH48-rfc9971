@@ -2,10 +2,6 @@ https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549372089
 magnitude
 to address
 
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549384921
-prime unit
-to address
-
 
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549436405
 load vs trial
@@ -31,6 +27,11 @@ https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549764513
 throughput section
 not addressed yet
 
+
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549384921
+prime unit
+fixed mostly in commit message locally
 
 
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549353109
