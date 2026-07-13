@@ -1,3 +1,38 @@
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549372089
+magnitude
+to address
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549384921
+prime unit
+to address
+
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549436405
+load vs trial
+to address
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549753761
+them are used in definitions
+not addressed yet
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549758626
+intended load section
+not addressed yet
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549761182
+offered load section
+not addressed yet
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549763706
+forwarding rate section
+not addressed yet
+
+https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549764513
+throughput section
+not addressed yet
+
+
+
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549353109
 obvious "use smaller Max Load"
 fixed in fork
@@ -5,10 +40,6 @@ fixed in fork
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549363385
 s/ans/as
 fixed in fork
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549372089
-magnitude
-to addressed
 
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549377595
 uses vocabulary
@@ -18,17 +49,9 @@ https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549380261
 were where
 fixed in fork
 
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549384921
-prime unit
-to address
-
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549414073
 ised/used
-addressed in fork
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549436405
-load vs trial
-to address
+fixed in fork
 
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549443802
 except when optionally
@@ -156,26 +179,6 @@ fixed in fork
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549747652
 search duration section
 was OK
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549753761
-them are used in definitions
-not addressed yet
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549758626
-intended load section
-not addressed yet
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549761182
-offered load section
-not addressed yet
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549763706
-forwarding rate section
-not addressed yet
-
-https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549764513
-throughput section
-not addressed yet
 
 https://github.com/rfc-editor/AUTH48-rfc9971/pull/46#discussion_r3549781090
 rfc2544 tthroughput phrase
