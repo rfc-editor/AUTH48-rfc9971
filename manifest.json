@@ -1,0 +1,29 @@
+{
+  "publications": [
+    {
+      "rfcNumber": 9971,
+      "files": [
+        {
+          "path": "rfc9971.html",
+          "type": "html"
+        },
+        {
+          "path": "rfc9971.notprepped.xml",
+          "type": "notprepped"
+        },
+        {
+          "path": "rfc9971.pdf",
+          "type": "pdf"
+        },
+        {
+          "path": "rfc9971.txt",
+          "type": "txt"
+        },
+        {
+          "path": "rfc9971.xml",
+          "type": "xml"
+        }
+      ]
+    }
+  ]
+}
